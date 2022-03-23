@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 -----------------------------------------------------------------------------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=chainlito&theme=nord&title=MultipleLang,Orgnanizations,Joined2020,Repo,PR)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chainlito&theme=nord&title=MultipleLang,Organizations,Joined2020,Repo,PR)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=chainlito&show_icons=true&theme=tokyonight)
 
